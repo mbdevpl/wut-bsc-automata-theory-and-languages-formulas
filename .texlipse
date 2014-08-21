@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Tue Nov 27 13:25:16 CET 2012
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=atl.tex
+outputFile=ATL_Formulas.pdf
+langSpell=en
+markDer=true
+srcDir=
